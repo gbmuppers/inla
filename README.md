@@ -1,2 +1,2 @@
-# inla
+# INLA
 Infinitesimal Learning Application (INLA)
