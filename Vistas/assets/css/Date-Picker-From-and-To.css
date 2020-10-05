@@ -1,0 +1,18 @@
+#example {
+  max-width: 480px;
+  width: 100%;
+}
+
+#example h2 {
+  font-weight: bold;
+}
+
+#delete-btn {
+  background-color: red;
+  border-color: red;
+}
+
+.container.d-flex.justify-content-center.align-items-center.vh-100 {
+  margin-top: -50px;
+}
+

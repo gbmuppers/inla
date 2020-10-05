@@ -1,0 +1,23 @@
+.app {
+  margin-top: 100px;
+}
+
+.card.shadow-lg {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.card-header.bg-dark.text-light {
+}
+
+#tab-div-1 {
+  margin-top: 30px;
+}
+
+.container {
+}
+
+#CashStart {
+  margin-top: 10px;
+}
+
